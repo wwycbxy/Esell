@@ -9,8 +9,8 @@ Tags: supply chain,supply,product,woocommerce plug-in
 Requires at least: 4.7
 #最高测试到了5.4可行
 Tested up to: 5.4
-#最稳定版本1.6
-Stable tag: 1.6
+#最稳定版本5.4.2
+Stable tag: 5.4.2
 #需要php版本
 Requires PHP: 7.0
 #公共许可证
