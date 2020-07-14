@@ -1,0 +1,391 @@
+# Translation of WordPress - 5.4.x - Development - Administration in Chinese (China)
+# This file is distributed under the same license as the WordPress - 5.4.x - Development - Administration package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-07 10:33+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+"Project-Id-Version: WordPress - 5.4.x - Development - Administration\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"Language: zh\n"
+
+# dealbaoGoodsList
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:143
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:236
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:143
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:236
+msgid "Picture"
+msgstr "图片"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:144
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:237
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:144
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:237
+msgid "Product Info"
+msgstr "商品信息"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:145
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:238
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:145
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:238
+msgid "State"
+msgstr "状态"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:146
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:239
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:146
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:239
+msgid "Product Affiliation"
+msgstr "商品所属"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:147
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:240
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:147
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:240
+msgid "Action"
+msgstr "操作"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:141
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:244
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:37
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:93
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:141
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:244
+msgid "Check All"
+msgstr "全选"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:72
+#: wp-content/plugins/Esell/includes/init.class.php:46
+#: wp-content/plugins/Esell/includes/init.class.php:47
+msgid "Product List"
+msgstr "商品列表"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:81
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:81
+msgid "Please enter the name of the product"
+msgstr "请输入商品名称"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:87
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:87
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:10
+msgid "Search"
+msgstr "搜索"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:88
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:88
+msgid "Derived"
+msgstr "导出"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:89
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:89
+msgid "Derived classification selection"
+msgstr "导出分类选择"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:93
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:93
+msgid "Select WooCommerce Product Category"
+msgstr "选择WooCommerce产品分类"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:99
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:99
+msgid "Confirm"
+msgstr "确定"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:173
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:173
+msgid "Market Price"
+msgstr "市场价"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:174
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:174
+msgid "Mall Price"
+msgstr "商城价"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:175
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:175
+msgid "Stock"
+msgstr "库存"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:176
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:176
+msgid "Hits"
+msgstr "点击量"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:177
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:177
+msgid "Sales"
+msgstr "销量"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:187
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:196
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:187
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:196
+msgid "Not approved"
+msgstr "审核不通过"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:189
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:189
+msgid "To Audit"
+msgstr "待审核"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:192
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:192
+msgid "On Sale"
+msgstr "在售"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:194
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:194
+msgid "For Sale"
+msgstr "待售"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:209
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:209
+msgid "Category Name"
+msgstr "分类名称"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:211
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:211
+msgid "Brand Name"
+msgstr "品牌名称"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:215
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:215
+msgid "Store Name"
+msgstr "店铺名称"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:217
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:217
+msgid "Add Time"
+msgstr "发布时间"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:217
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:217
+msgid "Details"
+msgstr "详情"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:56
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:56
+msgid "Please check exported product"
+msgstr "请勾选导出产品"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:57
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:57
+msgid "Please check exported category"
+msgstr "请勾选导出分类"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:58
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:58
+msgid "Please do not jump while exporting product. Keep this page to prevent export failure!"
+msgstr "产品导出中，请勿跳转。保持该页面，防止导出失败!"
+
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsList.php:59
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:59
+msgid "Export Success!"
+msgstr "导出成功!"
+
+# dealbaoPages
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:31
+msgid "Projects"
+msgstr "个项目"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:42
+msgid "No"
+msgstr "第"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:44
+msgid "Current page"
+msgstr "当前页"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:44
+msgid "Page"
+msgstr "页"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:44
+msgid "Total"
+msgstr "共"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:66
+msgid "Previous Page"
+msgstr "上一页"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:74
+msgid "Next Page"
+msgstr "下一页"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:80
+msgid "Home Page"
+msgstr "首页"
+
+#: wp-content/plugins/Esell/includes/dealbaoPages.php:87
+msgid "Trailer Page"
+msgstr "尾页"
+
+#: init wp-content/plugins/Esell/includes/init.class.php:29
+msgid "Basic supply chain setup"
+msgstr "供应链基本设置"
+
+#: wp-content/plugins/Esell/includes/init.class.php:30
+#: wp-content/plugins/Esell/includes/dealbaoSetting/appSetting.php:8
+msgid "Supply Chain"
+msgstr "供应链"
+
+#: wp-content/plugins/Esell/includes/init.class.php:39
+#: wp-content/plugins/Esell/includes/init.class.php:40
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:3
+msgid "Order List"
+msgstr "订单列表"
+
+#: wp-content/plugins/Esell/includes/init.class.php:55
+#: wp-content/plugins/Esell/includes/init.class.php:56
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectList.php:72
+msgid "Collect List"
+msgstr "收藏列表"
+
+#: wp-content/plugins/Esell/includes/init.class.php:63
+#: wp-content/plugins/Esell/includes/init.class.php:64
+#: wp-content/plugins/Esell/includes/dealbaoCategory/dealbaoCategoryBind.php:65
+msgid "Binding Category"
+msgstr "分类绑定"
+
+#: appSetting wp-content/plugins/Esell/includes/dealbaoSetting/appSetting.php:9
+msgid "Supply Chain Application Settings"
+msgstr "供应链应用设置"
+
+#: wp-content/plugins/Esell/includes/dealbaoSetting/setConfig.class.php:37
+msgid "Added Successfully"
+msgstr "新增成功"
+
+#: wp-content/plugins/Esell/includes/dealbaoSetting/setConfig.class.php:47
+msgid "Update Successfully"
+msgstr "更新成功"
+
+# dealbaoOrderList
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:7
+msgid "Please enter the order number or product name"
+msgstr "请输入订单号或者商品名称"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:39
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:95
+msgid "Order Number"
+msgstr "订单号"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:40
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:96
+msgid "Product Name"
+msgstr "产品名称"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:41
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:97
+msgid "Waybill Number"
+msgstr "运单号"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:42
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:98
+msgid "Order Amount(YUAN)"
+msgstr "订单金额（元）"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:43
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:99
+msgid "Order Status"
+msgstr "订单状态"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:44
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:100
+msgid "Customer Name"
+msgstr "客户姓名"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:101
+msgid "Payment Time"
+msgstr "支付时间"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderList.php:65
+msgid "No Number"
+msgstr "暂无运单号"
+
+#: dealbaoOrder
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:73
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:86
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:90
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:152
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:169
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:164
+msgid "Canceled"
+msgstr "已取消"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:76
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:155
+msgid "Obligations"
+msgstr "待付款"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:79
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:88
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:93
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:158
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:167
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:172
+msgid "To Be Delivered"
+msgstr "待发货"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:82
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:161
+msgid "Applying"
+msgstr "申请中"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:84
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:163
+msgid "Under Review"
+msgstr "审核中"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:98
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:177
+msgid "Shipped"
+msgstr "已发货"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:101
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:180
+msgid "In Transit"
+msgstr "运输中"
+
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:105
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrder.class.php:184
+msgid "Completed"
+msgstr "已完成"
+
+# dealbaoOrderCurl
+#: wp-content/plugins/Esell/includes/dealbaoOrder/dealbaoOrderCurl.class.php:90
+#: wp-content/plugins/Esell/includes/dealbaoSetting/dealbaoSettingCurl.class.php:24
+#: wp-content/plugins/Esell/includes/dealbaoGoods/dealbaoGoodsCurl.class.php:104
+#: wp-content/plugins/Esell/includes/dealbaoCollect/dealbaoCollectCurl.php:105
+msgid "Interface Error"
+msgstr "接口错误"
+
+# dealbaoCategory
+#: wp-content/plugins/Esell/includes/dealbaoCategory/dealbaoCategoryBind.php:68
+msgid "Local Classification"
+msgstr "本地分类"
+
+#: wp-content/plugins/Esell/includes/dealbaoCategory/dealbaoCategoryBind.php:72
+msgid "Remote Classification"
+msgstr "远程分类"
+
+#: wp-content/plugins/Esell/includes/dealbaoCategory/dealbaoCategoryBind.php:218
+msgid "Please select local classification"
+msgstr "请选取本地分类"
+
+#: wp-content/plugins/Esell/includes/dealbaoCategory/dealbaoCategoryBind.php:224
+msgid "Please select remote classification"
+msgstr "请选取远程分类"
+
+#: wp-content/plugins/Esell/includes/dealbaoCategory/dealbaoCategory.class.php:78
+msgid "Binding Success"
+msgstr "绑定成功"
+
+#: wp-content/plugins/Esell/Esell.php:33
+#: wp-content/plugins/Esell/includes/Init.class.php:304
+msgid "Woocommerce is not enabled"
+msgstr "Woocommerce未启用"

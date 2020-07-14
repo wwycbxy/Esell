@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dealbao/service": "^1.2"
+    }
+}

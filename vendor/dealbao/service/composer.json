@@ -1,0 +1,22 @@
+{
+    "name": "dealbao/service",
+    "description": "dealbao sdk service",
+    "keywords": ["sdk","dealbao","service-sdk"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laowang",
+            "email": "1096311182@qq.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "pimple/pimple": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dealbao\\Open\\": "src/Open/"
+        }
+    }
+}
